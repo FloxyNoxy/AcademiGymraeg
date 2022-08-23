@@ -8,7 +8,8 @@ import javax.persistence.Id;
 import javax.persistence.SequenceGenerator;
 
 @Entity
-public class NounRequest {
+public class NounRequest 
+{
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_post")

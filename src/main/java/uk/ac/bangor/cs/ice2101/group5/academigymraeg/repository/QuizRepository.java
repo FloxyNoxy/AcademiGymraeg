@@ -6,7 +6,6 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 import uk.ac.bangor.cs.ice2101.group5.academigymraeg.quiz.Quiz;
-import uk.ac.bangor.cs.ice2101.group5.academigymraeg.web.NounRequest;
 
 @Repository
 public interface QuizRepository extends CrudRepository<Quiz, Integer> {

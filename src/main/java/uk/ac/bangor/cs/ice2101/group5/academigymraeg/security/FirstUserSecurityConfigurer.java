@@ -10,6 +10,15 @@ import org.springframework.stereotype.Component;
 
 import uk.ac.bangor.cs.ice2101.group5.academigymraeg.repository.UserRepository;
 
+/**
+ * First User configuration setup
+ * 
+ * @author johnn
+ * @author owenw
+ * @author ethan Quilter
+ *
+ */
+
 @Component
 public class FirstUserSecurityConfigurer {
 

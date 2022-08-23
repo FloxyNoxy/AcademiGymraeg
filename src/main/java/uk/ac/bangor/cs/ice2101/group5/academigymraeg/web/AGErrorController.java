@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * the most common http errors occur e.g. 403 forbidden
  * 
  * @author owenw
+ * @author EthanQ
  *
  */
 @Controller

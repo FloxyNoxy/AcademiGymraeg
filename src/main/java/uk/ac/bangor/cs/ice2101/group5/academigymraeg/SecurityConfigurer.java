@@ -19,7 +19,9 @@ import uk.ac.bangor.cs.ice2101.group5.academigymraeg.security.RepositoryBasedUse
  * bcrypt used for new users to ensure security of password
  * Spring security mitigates risk of SQL injection by preventing malicious input such as including ";" to initiate query
  * 
+ * @author johnn
  * @author owenw
+ * @author ethan Quilter
  *
  */
 @Component

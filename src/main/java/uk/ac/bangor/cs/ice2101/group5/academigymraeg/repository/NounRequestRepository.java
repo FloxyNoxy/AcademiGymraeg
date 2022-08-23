@@ -12,6 +12,7 @@ import uk.ac.bangor.cs.ice2101.group5.academigymraeg.web.NounRequest;
  * 
  * @author johnn
  * @author owenw
+ * @author ethan Quilter
  *
  */
 @Repository

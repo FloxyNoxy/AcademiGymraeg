@@ -20,7 +20,9 @@ import uk.ac.bangor.cs.ice2101.group5.academigymraeg.security.User;
  * Quiz entity handles all input, processing and output for a student to take a quiz of randomly generated Nouns with their gender and translation
  * Quizzes are assigned to a user through the QuizController when submitted
  * 
+ * @author johnn
  * @author owenw
+ * @author ethan Quilter
  *
  */
 @Entity

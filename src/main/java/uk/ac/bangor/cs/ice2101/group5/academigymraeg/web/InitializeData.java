@@ -12,7 +12,6 @@ import org.springframework.jdbc.datasource.init.ResourceDatabasePopulator;
 import org.springframework.stereotype.Component;
 
 import uk.ac.bangor.cs.ice2101.group5.academigymraeg.repository.NounRequestRepository;
-import uk.ac.bangor.cs.ice2101.group5.academigymraeg.security.FirstUserSecurityConfigurer;
 
 
 /**
